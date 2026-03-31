@@ -1,6 +1,6 @@
 # About me 
 <div style="margin-left: 10px; line-height: 1.5;">
-  <img src="assets/images/silma.png" alt="silmä" width="200"> <br> <br>
+  <img src="assets/images/silma.PNG" alt="silma" width="200"> <br> <br>
   <br>
   My name is Artturi Vuorinen.
   <br>
