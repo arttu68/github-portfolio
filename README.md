@@ -16,7 +16,7 @@
 # School projects
 
 <details open>
-  <summary><b>▸ Strung Flowers | Windows 10 - 11 Game</b></summary>
+  <summary><b>Strung Flowers | Windows 10 - 11 Game</b></summary>
   
   <div style="display: flex; justify-content: center; align-items: center;">
     
