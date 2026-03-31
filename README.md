@@ -1,7 +1,8 @@
 # About me 
 <div style="margin-left: 10px; line-height: 1.5;">
+  <img src="assets/images/silmä.png" alt="Image" width="200"> <br> <br>
   <br>
-  My name is Artturi Vuorinen
+  My name is Artturi Vuorinen.
   <br>
   TEST
 </div>
