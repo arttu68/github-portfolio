@@ -15,6 +15,10 @@
   <a href="https://thearttu68.itch.io" target="_blank">
   <img src="assets/images/itchio.png" width="100">
   </a>
+
+  <a href="https://x.com/TheArttu68_2" target="_blank">
+  <img src="assets/images/xlogo.png" width="100">
+  </a>
     
   </div>
   <div style="margin-left: 10px; padding-top: 2px;">
