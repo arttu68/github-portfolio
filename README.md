@@ -33,6 +33,11 @@
 </details>
 
 # Personal projects
+
+<br>
+
+# Other
+
 <details open>
   
   <summary><b>Social media</b></summary>
