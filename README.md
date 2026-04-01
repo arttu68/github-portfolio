@@ -130,6 +130,8 @@
     
   </div>
 
+  <p><b>My role in the project</b></p>
+
   <ul>
   <li><b>All:</b> Made everything in the game from scratch, and am further developing it for release</li>
   </ul>
