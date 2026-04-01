@@ -138,7 +138,7 @@
 
 <details open>
   
-  <summary><b>Social media</b></summary>
+  <summary><b>Links</b></summary>
 
   <div style="display: flex; justify-content: center; align-items: center;">
     
@@ -156,8 +156,6 @@
   
   </div>
 
-</div>
-
 </details>
 
 <details open>
@@ -166,14 +164,12 @@
 
   <div style="display: flex; justify-content: center; align-items: center;">
     
-  <a href="artsa03@hotmail.fi" target="_blank">
+  <a href="mailto:artsa03@hotmail.fi" target="_blank">
     
   <img src="assets/images/outlook.png" width="25">
   
   </a>
   
   </div>
-
-</div>
 
 </details>
