@@ -1,11 +1,12 @@
 # Who am I?
 <div style="margin-left: 10px; line-height: 1.5;">
   
-  <img src="assets/images/silma.PNG" alt="silma" width="200">
+  <img src="assets/images/kasvokuva.jpg" alt="kasvokuva" width="200">
   
   <br>
   
   My name is Artturi Vuorinen, and I'm a game developer from Finland who also has a passion for music and audio.
+  I've been creating games and music since I was around 12. Over the years I've improved my skills, and what started as hobbies has become both my passion and my intended career path.
   
 </div>
 
@@ -13,7 +14,7 @@
 
 <details open>
   <summary><b>Strung Flowers | Windows 10 - 11 Game</b></summary>
-  <br>
+
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://sokifin.itch.io/strung-flowers" target="_blank">
       <img src="assets/images/strungflowers.PNG" width="500">
@@ -40,7 +41,7 @@
 
 <details open>
   <summary><b>Spaceship Cannoneer | Windows 10 - 11 Game</b></summary>
-  <br>
+
   <div style="display: flex; justify-content: center; align-items: center;">
       <img src="assets/images/spacegame.PNG" width="500">
     
@@ -62,7 +63,7 @@
 
 <details open>
   <summary><b>Kuumalinja Kajaani | Game Soundtrack</b></summary>
-  <br>
+
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://soundcloud.com/kuumalinjakajaani" target="_blank">
       <img src="assets/images/klinjakajaani.PNG" width="500">
@@ -90,7 +91,7 @@
 
 <details open>
   <summary><b>ETTLES | Windows 10 - 11 Game</b></summary>
-  <br>
+
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://thearttu68.itch.io/ettles" target="_blank">
       <img src="assets/images/ettles.PNG" width="500">
@@ -116,7 +117,7 @@
 
 <details open>
   <summary><b>Arthur Mountain's Boss Rush | Upcoming Steam release</b></summary>
-  <br>
+
   <div style="display: flex; justify-content: center; align-items: center;">
       <img src="assets/images/bossrush.PNG" width="500">
     </a>
@@ -150,6 +151,24 @@
   <a href="https://x.com/TheArttu68_2" target="_blank">
     
   <img src="assets/images/xlogo2.png" width="25">
+  
+  </a>
+  
+  </div>
+
+</div>
+
+</details>
+
+<details open>
+  
+  <summary><b>Contacts</b></summary>
+
+  <div style="display: flex; justify-content: center; align-items: center;">
+    
+  <a href="artsa03@hotmail.fi" target="_blank">
+    
+  <img src="assets/images/outlook.png" width="25">
   
   </a>
   
