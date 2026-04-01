@@ -138,7 +138,7 @@
 <details open>
   
   <summary><b>Social media</b></summary>
-  <br>
+
   <div style="display: flex; justify-content: center; align-items: center;">
     
   <a href="https://thearttu68.itch.io" target="_blank">
